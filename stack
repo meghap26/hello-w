@@ -1,0 +1,9 @@
+begin procedure isfull
+
+   if top equals to MAXSIZE
+      return true
+   else
+      return false
+   endif
+   
+end procedure
